@@ -57,10 +57,10 @@ def list_user_categories(username:str):
 def assign_category_to_todo(username:str, todo_id:int, category_text:str):
     # Task 5.6 code here. Remove the line with "pass" below once completed
     pass
-11. Conclusion
-Thus concludes your introduction to flask-sqlalchemy. The usage of this library is at the very core of this course.
+# 11. Conclusion
+# Thus concludes your introduction to flask-sqlalchemy. The usage of this library is at the very core of this course.
 
-You can view a completed version of this lab at the following link
+# You can view a completed version of this lab at the following link
 
 if __name__ == "__main__":
     cli()
